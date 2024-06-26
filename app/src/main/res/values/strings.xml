@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inventaris</string>
+    <string name="sell">Jual</string>
+    <string name="quantity">Jumlah Barang:</string>
+    <string name="quantity_req">Jumlah <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Nama <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Harga <font color='#FF0000'>*</font></string>
+    <string name="save_action">Simpan</string>
+    <string name="item_detail_fragment_title">Detail Barang</string>
+    <string name="add_fragment_title">Tambah Barang</string>
+    <string name="edit_fragment_title">Edit Barang</string>
+    <string name="quantity_in_stock">Jumlah</string>
+    <string name="item">Barang</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Yakin ingin Menghapus Barang Ini?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="edit_item">Edit Barang</string>
+    <string name="add_new_item">Tambah Barang Baru</string>
+    <string name="currency_symbol">Rp</string>
+    <string name="price">Harga</string>
+</resources>
